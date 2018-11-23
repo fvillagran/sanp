@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="anp-backend-business" />
+        <module name="anp-backend-common" />
+        <module name="anp-backend-ear" />
+        <module name="anp-backend-ejb" />
+        <module name="anp-backend-model-persist" />
+        <module name="anp-backend-saf" />
+        <module name="anp-backend-siau" />
+        <module name="anp-backend-ws" />
+        <module name="anp-front-end-ear" />
+        <module name="anp-front-end-war" />
+        <module name="anp-front-end-war-admin" />
+        <module name="anp-front-end-ws-client" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

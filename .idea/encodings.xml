@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/anp-backend" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/anp-backend/anp-backend-business" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/anp-backend/anp-backend-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/anp-backend/anp-backend-ear" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/anp-backend/anp-backend-ejb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/anp-backend/anp-backend-model-persist" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/anp-backend/anp-backend-saf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/anp-backend/anp-backend-siau" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/anp-backend/anp-backend-ws" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/anp-frontend/anp-front-end-ws-client" charset="UTF-8" />
+  </component>
+</project>
